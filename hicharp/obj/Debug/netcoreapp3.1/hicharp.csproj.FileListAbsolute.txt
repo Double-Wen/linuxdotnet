@@ -1,0 +1,13 @@
+/home/ubuntu/RiderProjects/hicharp/hicharp/bin/Debug/netcoreapp3.1/hicharp
+/home/ubuntu/RiderProjects/hicharp/hicharp/bin/Debug/netcoreapp3.1/hicharp.deps.json
+/home/ubuntu/RiderProjects/hicharp/hicharp/bin/Debug/netcoreapp3.1/hicharp.runtimeconfig.json
+/home/ubuntu/RiderProjects/hicharp/hicharp/bin/Debug/netcoreapp3.1/hicharp.runtimeconfig.dev.json
+/home/ubuntu/RiderProjects/hicharp/hicharp/bin/Debug/netcoreapp3.1/hicharp.dll
+/home/ubuntu/RiderProjects/hicharp/hicharp/bin/Debug/netcoreapp3.1/hicharp.pdb
+/home/ubuntu/RiderProjects/hicharp/hicharp/obj/Debug/netcoreapp3.1/hicharp.csprojAssemblyReference.cache
+/home/ubuntu/RiderProjects/hicharp/hicharp/obj/Debug/netcoreapp3.1/hicharp.AssemblyInfoInputs.cache
+/home/ubuntu/RiderProjects/hicharp/hicharp/obj/Debug/netcoreapp3.1/hicharp.AssemblyInfo.cs
+/home/ubuntu/RiderProjects/hicharp/hicharp/obj/Debug/netcoreapp3.1/hicharp.csproj.CoreCompileInputs.cache
+/home/ubuntu/RiderProjects/hicharp/hicharp/obj/Debug/netcoreapp3.1/hicharp.dll
+/home/ubuntu/RiderProjects/hicharp/hicharp/obj/Debug/netcoreapp3.1/hicharp.pdb
+/home/ubuntu/RiderProjects/hicharp/hicharp/obj/Debug/netcoreapp3.1/hicharp.genruntimeconfig.cache
