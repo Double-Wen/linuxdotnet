@@ -1,0 +1,13 @@
+/home/ubuntu/RiderProjects/hicharp/ConsoleApp16/bin/Debug/netcoreapp3.1/ConsoleApp16
+/home/ubuntu/RiderProjects/hicharp/ConsoleApp16/bin/Debug/netcoreapp3.1/ConsoleApp16.deps.json
+/home/ubuntu/RiderProjects/hicharp/ConsoleApp16/bin/Debug/netcoreapp3.1/ConsoleApp16.runtimeconfig.json
+/home/ubuntu/RiderProjects/hicharp/ConsoleApp16/bin/Debug/netcoreapp3.1/ConsoleApp16.runtimeconfig.dev.json
+/home/ubuntu/RiderProjects/hicharp/ConsoleApp16/bin/Debug/netcoreapp3.1/ConsoleApp16.dll
+/home/ubuntu/RiderProjects/hicharp/ConsoleApp16/bin/Debug/netcoreapp3.1/ConsoleApp16.pdb
+/home/ubuntu/RiderProjects/hicharp/ConsoleApp16/obj/Debug/netcoreapp3.1/ConsoleApp16.csprojAssemblyReference.cache
+/home/ubuntu/RiderProjects/hicharp/ConsoleApp16/obj/Debug/netcoreapp3.1/ConsoleApp16.AssemblyInfoInputs.cache
+/home/ubuntu/RiderProjects/hicharp/ConsoleApp16/obj/Debug/netcoreapp3.1/ConsoleApp16.AssemblyInfo.cs
+/home/ubuntu/RiderProjects/hicharp/ConsoleApp16/obj/Debug/netcoreapp3.1/ConsoleApp16.csproj.CoreCompileInputs.cache
+/home/ubuntu/RiderProjects/hicharp/ConsoleApp16/obj/Debug/netcoreapp3.1/ConsoleApp16.dll
+/home/ubuntu/RiderProjects/hicharp/ConsoleApp16/obj/Debug/netcoreapp3.1/ConsoleApp16.pdb
+/home/ubuntu/RiderProjects/hicharp/ConsoleApp16/obj/Debug/netcoreapp3.1/ConsoleApp16.genruntimeconfig.cache

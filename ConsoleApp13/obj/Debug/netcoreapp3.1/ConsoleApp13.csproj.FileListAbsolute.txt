@@ -1,0 +1,4 @@
+/home/ubuntu/RiderProjects/hicharp/ConsoleApp13/obj/Debug/netcoreapp3.1/ConsoleApp13.csprojAssemblyReference.cache
+/home/ubuntu/RiderProjects/hicharp/ConsoleApp13/obj/Debug/netcoreapp3.1/ConsoleApp13.AssemblyInfoInputs.cache
+/home/ubuntu/RiderProjects/hicharp/ConsoleApp13/obj/Debug/netcoreapp3.1/ConsoleApp13.AssemblyInfo.cs
+/home/ubuntu/RiderProjects/hicharp/ConsoleApp13/obj/Debug/netcoreapp3.1/ConsoleApp13.csproj.CoreCompileInputs.cache
